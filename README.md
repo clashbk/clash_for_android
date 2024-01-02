@@ -4,6 +4,6 @@ Kr328/ClashForAndroid/releases  最后备份文件，文件未进行任何修改
 
 ## 下载
 
-[v0.20.39 releases](https://github.com/clashbk/clash_for_windows/releases/tag/0.20.39)
+[v2.5.12 releases](https://github.com/clashbk/clash_for_android/releases/tag/2.5.12)
 
-此处只上传了windows版本，获取其他版本：https://clashforandroid100.com/clash-for-android-download/
+此处只上传了通用版本，获取其他版本：https://clashforandroid100.com/clash-for-android-download/
