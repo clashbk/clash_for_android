@@ -6,4 +6,4 @@ Kr328/ClashForAndroid/releases  最后备份文件，文件未进行任何修改
 
 [v2.5.12 releases](https://github.com/clashbk/clash_for_android/releases/tag/2.5.12)
 
-For more details:https://clashforandroid100.com
+For more details: https://clashforandroid100.com
