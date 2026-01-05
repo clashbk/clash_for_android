@@ -7,4 +7,6 @@ Kr328/ClashForAndroid/releases  最后备份文件，文件未进行任何修改
 
 [v2.5.12 releases](https://github.com/clashbk/clash_for_android/releases/tag/2.5.12)
 
-For more details: https://clashforandroid100.com
+机场推荐：【 [ORYMI（点击注册）](https://orymi.net/#/register?code=rDsEp8Hf)】
+免费观看netflix、disney+、primevideo、hbomax，
+九折优惠码：LxwSsaay
